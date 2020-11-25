@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+}
+.award-image{
+     width:20%;
+}
+.company-logo{
+     width:50%;
+}
+.company-description-section p{
+       text-transform: uppercase;
+}

@@ -1,0 +1,22 @@
+.product-description{
+    margin-left: 25px;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size:12px;
+}
+
+.product-container{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-left: 100px;
+     border-bottom: 1px solid red;
+}
+
+.product-list-img{
+    width: 85%;
+}
+.product-container p{
+    text-align: center;
+}

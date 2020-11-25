@@ -1,0 +1,16 @@
+.product-container{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-left: 100px;
+}
+
+.product-list-img{
+    width: 85%;
+}
+.product-container p{
+    display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-left: 100px;
+}

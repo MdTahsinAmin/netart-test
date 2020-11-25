@@ -1,0 +1,16 @@
+.company-product{
+    font-family: 'Courier New', Courier, monospace;
+}
+.company-services{
+    margin-left:45px;
+    color: #000;
+    font-size: 14px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.company-services-1{
+      text-align:center;
+      font-size:13px;
+      font-weight: 900;
+      text-transform: uppercase;
+}

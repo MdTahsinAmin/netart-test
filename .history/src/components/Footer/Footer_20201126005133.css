@@ -1,0 +1,15 @@
+.footer{
+    background-color: #EC3237;
+    display: flex;
+    padding-top:50px;
+    padding-bottom:50px;
+    justify-content:space-evenly;
+    color: #fff;
+}
+.footer a{
+     color: #fff;
+     text-decoration: none;
+}
+.media-icon {
+    font-size:18px;
+}

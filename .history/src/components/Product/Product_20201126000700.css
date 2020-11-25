@@ -1,0 +1,8 @@
+.product-container{
+     justify-content: center;
+     align-items: center;
+}
+
+.product-list-img{
+    width: 75%;
+}

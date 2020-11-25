@@ -1,0 +1,25 @@
+.container{
+    display:flex;
+}
+
+.award-image-section{
+     width:50%;
+     margin-right: 100px;
+}
+.award-image{
+     margin-top:230px;
+     margin-left:px;
+     width:110%;
+}
+.company-logo{
+     width:45%;
+}
+.wining-description{
+       text-transform: uppercase;
+       font-size:calc(15px+2vw);
+       font-weight:500;
+       letter-spacing: 0.12px;
+}
+.awardReceiving-img{
+     width:95%;
+}
