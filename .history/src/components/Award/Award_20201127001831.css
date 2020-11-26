@@ -32,6 +32,16 @@ ul li{
 .award-image-1{
     display: none;
 }
+/*@media(max-width:800px){
+     .company-logo{
+          width:65%;
+     }
+     .who-received-award{
+         text-align: justify;
+         margin-right: 10px;
+     
+}*/
+
 @media(max-width: 820px) {
      .container {
          display: block;
@@ -60,9 +70,6 @@ ul li{
            width: 55%;
      }
      .company-description-section li{
-          text-align: justify;
-     }
-     .who-received-award{
           text-align: justify;
      }
  }

@@ -22,7 +22,7 @@ const Award = () => {
                  </div>
                  <p className='who-received-award'>Government of India has awarded the <strong>"National Energy Conservation Award 2018".</strong> Mr.G.Selvaraj ,Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan Speaker of Lok Sabha &amp; Shri Raj Kumar Singh Honorable Minister of State.</p>
                  <div className='award-image-section-1'>
-                  { <img src={award} alt='C.R.I' className='award-image-1'/>}
+                  { <img src={award} alt='C.R.I' className='award-image'/>}
                   </div>
               </div>  
         </section>

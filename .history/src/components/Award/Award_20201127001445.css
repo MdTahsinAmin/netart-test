@@ -4,10 +4,20 @@
     background-size:cover;
     align-items: center
 }
+
 .award-image-section{
      width:50%;
+     /*margin-right: 100px;*/
+}
+.award-image-section-1{
+      display:none;
+}
+.award-image-1{
+     display: none;
 }
 .award-image{
+     /*margin-top:230px;*/
+     /*padding-top:280px;*/
      width:100%;
 }
 .company-logo{
@@ -26,12 +36,20 @@
 ul li{
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-.award-image-section-1{
-     display:none;
-}
-.award-image-1{
-    display: none;
-}
+/*@media(max-width:800px){
+     .company-logo{
+          width:65%;
+     }
+     .who-received-award{
+         text-align: justify;
+         margin-right: 10px;
+     }
+     .company-description-section li{
+          text-align: justify;
+          margin-right: 10px;
+     }
+}*/
+
 @media(max-width: 820px) {
      .container {
          display: block;
@@ -40,29 +58,13 @@ ul li{
          width: 100%;
          margin-right: 0;
      }
+
      .award-image {
-         display:none;
-     }
-     .award-image-section-1{
-          display:block;
-    }
-    .award-image-1{
-          width: 50%;
-          margin: auto;
-          display: inherit;
+         width: 50%;
+         margin: auto;
+         display: inherit;
      }
      .company-description-section {
          padding: 30px;
-     }
-     .company-logo{
-           justify-content: center;
-           align-items: center;
-           width: 55%;
-     }
-     .company-description-section li{
-          text-align: justify;
-     }
-     .who-received-award{
-          text-align: justify;
      }
  }
