@@ -5,7 +5,6 @@ const ProductList = () => {
     const style ={
           textTransform:'uppercase',
           fontSize:'15px',
-          fontWeight:'900',
           textAlign:'center'
     };
     return (
