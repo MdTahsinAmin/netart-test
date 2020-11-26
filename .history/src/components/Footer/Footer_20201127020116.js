@@ -6,14 +6,14 @@ import {BiWorld} from 'react-icons/bi';
 const Footer = () => {
 
    const styles ={
-        marginLeft:'20px',
+        marginLeft:'5px',
    }  
 
     return (
       <div className='footer'>
             <ul className="footer-section">
                 <li>
-                  <span className='media-icon' style={styles}><IoIosCall/></span>
+                  <span className='media-icon'><IoIosCall/></span>
                    <span>Toll free 1800-200-1234</span>
                 </li>
                 <li>

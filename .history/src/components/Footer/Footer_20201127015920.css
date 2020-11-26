@@ -17,7 +17,6 @@
    display: flex;
    flex-wrap: wrap;
    justify-content:center;
-   align-items: inherit;
 }
 
 .footer-section.li{
@@ -33,9 +32,5 @@
 @media(max-width: 820px){
     .footer-section{
         display:block;
-        padding:30px;
-        justify-content:center;
-        align-items:center;
-        text-align: center;
     }
 }

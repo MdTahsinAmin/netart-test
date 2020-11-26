@@ -6,7 +6,8 @@ import {BiWorld} from 'react-icons/bi';
 const Footer = () => {
 
    const styles ={
-        marginLeft:'20px',
+        marginLeft:'5px',
+        marginTop:'5px'
    }  
 
     return (

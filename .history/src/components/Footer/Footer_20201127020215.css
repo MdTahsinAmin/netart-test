@@ -2,7 +2,7 @@
     background-color: #EC3237;
     display: flex;
     padding-top:50px;
-    padding-bottom:50px;
+    padding-bottom:15px;
     color: #fff;
 }
 .footer-section{
@@ -17,7 +17,6 @@
    display: flex;
    flex-wrap: wrap;
    justify-content:center;
-   align-items: inherit;
 }
 
 .footer-section.li{
