@@ -14,7 +14,6 @@
     list-style-type: none;
     display:flex;
     flex-wrap: wrap;
-    padding-left:150px;
 }
 .segments{
      text-align: center;
@@ -29,11 +28,12 @@
 }
 .ul-under-div{
     display:flex;
+    justify-content:center;
+    align-items:center;
     flex-wrap: wrap;
-    padding-left:250px;
 }
-.after{
-    display:none;
+.ul-under-div li{
+    text-align:center; 
 }
 
 /* after effect */
@@ -57,14 +57,4 @@
         align-items: center;
         padding:10px;
     }
-    .ul-under-div{
-        display:none;
-    }
-    .after{
-        display:flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-    }
-
 }

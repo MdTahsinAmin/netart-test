@@ -16,7 +16,7 @@
      justify-content: center;
      align-items: center;
      padding-left: 100px;
-     border-bottom: 2px solid red;
+     border-bottom: 1px solid red;
 }
 
 .product-list-img{
@@ -33,18 +33,19 @@
 } 
 
 @media(max-width:820px){
+    .section{
+        padding:30px;
+    }
     .product-description{
         margin-left: 10px;
         margin-right: 10px;
         font-size:13px;
         text-align: justify;
-        padding:10px;
     }
 
     .product-container{
         padding-left: 0px;
         padding-right:10px;
-        padding:20px;
     }
     .product-list-img{
         width:100%;

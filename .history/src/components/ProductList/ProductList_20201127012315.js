@@ -15,28 +15,19 @@ const ProductList = () => {
                  <li>Marine&amp;defence</li>
                  <li>Metal&amp;mining</li>
                  <li>Food&amp;beverage</li>
-                 
-                 <div className='ul-under-div'>
-                    <li>Petrochemical&amp;Refineries</li>
-                    <li>Solar</li>
-                    <li>Building</li>
-                    <li>Hvac</li>
-                    <li>Fire Fighting</li>
-                    <li id='last-li'>Agriculture&amp;Residential.</li>
-                 </div>
-                 
-                 <div className='after'>
-                    <li>Petrochemical&amp;Refineries</li>
-                    <li>Solar</li>
-                    <li>Building</li>
-                    <li>Hvac</li>
-                    <li>Fire Fighting</li>
-                    <li id='last-li'>Agriculture&amp;Residential.</li>
-                 </div>
-
+             </ul>
+             <ul className='extra-items'>
+             <li>Petrochemical&amp;Refineries</li>
+                 <li>Solar</li>
+                 <li>Building</li>
+                 <li>Hvac</li>
+                 <li>Fire Fighting</li>
+                 <li>Agriculture&amp;Residential.</li>
              </ul>
         </div>
     );
 };
 
 export default ProductList;
+
+//<p className='company-services-1'>   Agriculture &amp; Residential.</p>

@@ -1,0 +1,26 @@
+.company-product{
+    background-image:linear-gradient(to right,#FFFAC5,#FFFAC2);
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.company-services{
+    margin-left:45px;
+    color: #000;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.company-services-1{
+      text-align:center;
+      font-size:13px;
+      font-weight: 700;
+      text-transform: uppercase;
+}
+.company-product span{
+     color: #EC3237;
+}
+@media(max-width: 820px){
+    .segments{
+        padding:20px;
+    }
+}

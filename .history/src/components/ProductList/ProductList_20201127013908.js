@@ -25,14 +25,14 @@ const ProductList = () => {
                     <li id='last-li'>Agriculture&amp;Residential.</li>
                  </div>
                  
-                 <div className='after'>
+                 <span className='after'>
                     <li>Petrochemical&amp;Refineries</li>
                     <li>Solar</li>
                     <li>Building</li>
                     <li>Hvac</li>
                     <li>Fire Fighting</li>
                     <li id='last-li'>Agriculture&amp;Residential.</li>
-                 </div>
+                 </span>
 
              </ul>
         </div>

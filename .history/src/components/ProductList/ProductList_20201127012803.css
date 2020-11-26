@@ -27,27 +27,15 @@
       font-weight: 500;
       text-transform: uppercase;
 }
-.ul-under-div{
-    display:flex;
-    flex-wrap: wrap;
-    padding-left:250px;
-}
-.after{
-    display:none;
-}
-
-/* after effect */
 .company-product span{
-    color: #EC3237;
+     color: #EC3237;
 }
 
 .product-items li::after{
-   content:'| ';
-   color: #EC3237;
+    content:'| ';
+    color: #EC3237;
 }
-#last-li::after{
-   content:'';
-}
+
 @media(max-width: 820px){
     .segments{
         padding:10px;
@@ -57,14 +45,4 @@
         align-items: center;
         padding:10px;
     }
-    .ul-under-div{
-        display:none;
-    }
-    .after{
-        display:flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        align-items: center;
-    }
-
 }

@@ -26,7 +26,7 @@ const ProductList = () => {
                  </div>
                  
                  <div className='after'>
-                    <li>Petrochemical&amp;Refineries</li>
+                 <li>Petrochemical&amp;Refineries</li>
                     <li>Solar</li>
                     <li>Building</li>
                     <li>Hvac</li>
