@@ -27,8 +27,8 @@
 }
 .media-icon {
     position: relative;
-    top:7px;
-    right: 5px;
+    top:5px;
+    left: 5px;
     font-size:25px;
     margin-left: 50px;
 }
