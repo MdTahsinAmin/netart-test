@@ -8,16 +8,16 @@ const Footer = () => {
       <div className='footer'>
             <ul className="footer-section">
                 <li>
-                  <span className='media-icon'><IoIosCall/></span>
-                   <span>Toll free 1800-200-1234</span>
+                  <span><IoIosCall/></span>
+                   <p>Toll free 1800-200-1234</p>
                 </li>
                 <li>
-                  <span className='media-icon'><AiFillFacebook/></span>
-                  <span>www.facebook.com/cripumps</span>
+                  <span><AiFillFacebook/></span>
+                   <p>www.facebook.com/cripumps</p>
                 </li>
                 <li>
-                  <span className='media-icon'><BiWorld/></span>
-                  <span>www.crigroup.com</span>
+                  <span><BiWorld/></span>
+                   <p>www.crigroup.com</p>
                 </li>
             </ul>
       </div>

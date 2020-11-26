@@ -8,15 +8,15 @@ const Footer = () => {
       <div className='footer'>
             <ul className="footer-section">
                 <li>
-                  <span className='media-icon'><IoIosCall/></span>
+                  <span><IoIosCall/></span>
                    <span>Toll free 1800-200-1234</span>
                 </li>
                 <li>
-                  <span className='media-icon'><AiFillFacebook/></span>
-                  <span>www.facebook.com/cripumps</span>
+                  <span><AiFillFacebook/></span>
+                   <span>www.facebook.com/cripumps</span>
                 </li>
                 <li>
-                  <span className='media-icon'><BiWorld/></span>
+                  <span><BiWorld/></span>
                   <span>www.crigroup.com</span>
                 </li>
             </ul>

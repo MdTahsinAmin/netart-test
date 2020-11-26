@@ -1,10 +1,4 @@
-.footer{
-    background-color: #EC3237;
-    display: flex;
-    padding-top:50px;
-    padding-bottom:50px;
-    color: #fff;
-}
+
 .footer-section{
     list-style-type: none;
 }
@@ -28,3 +22,15 @@
     font-size:25px;
     margin-left: 50px;
 }
+
+/* 
+.footer{
+    background-color: #EC3237;
+    display: flex;
+    padding-top:50px;
+    padding-bottom:50px;
+    justify-content:space-evenly;
+    color: #fff;
+}
+
+*/
