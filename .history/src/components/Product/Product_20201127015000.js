@@ -15,7 +15,7 @@ const Product = () => {
                   <li>IoT Drivers &amp; controllers</li>
                   <li>Wires &amp; Cables</li>
                   <li>Solar Systems</li>
-                  <li id='last-element'>Motors</li>
+                  <li>Motors</li>
               </ul>
           </div>
      </div>

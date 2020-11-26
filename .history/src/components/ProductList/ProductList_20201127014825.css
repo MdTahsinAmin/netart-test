@@ -14,7 +14,8 @@
     list-style-type: none;
     display:flex;
     flex-wrap: wrap;
-    padding-left:100px;
+    padding-left:135px;
+    padding-right: 10px;
 }
 .segments{
      text-align: center;

@@ -14,7 +14,7 @@
     list-style-type: none;
     display:flex;
     flex-wrap: wrap;
-    padding-left:100px;
+    padding-left:150px;
 }
 .segments{
      text-align: center;
@@ -31,7 +31,6 @@
     display:flex;
     flex-wrap: wrap;
     padding-left:250px;
-    
 }
 .after{
     display:none;
@@ -43,7 +42,7 @@
 }
 
 .product-items li::after{
-   content:' | ';
+   content:' |';
    color: #EC3237;
 }
 #last-li::after{

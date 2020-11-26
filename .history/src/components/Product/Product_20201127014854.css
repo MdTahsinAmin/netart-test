@@ -26,21 +26,11 @@
     text-align: center;
 }
 .image-product-list{
-    list-style-type: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 500;
-    font-size:16px;
+    font-weight: 700;
+    font-size:14px;
 } 
-.image-product-list li::after{
-       content: " - ";
-}
-#last-element::after{
-    content: "";
-}
 
 @media(max-width:820px){
     .product-description{
