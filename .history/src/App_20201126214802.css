@@ -4,6 +4,7 @@
    #FFFCDD
    #FFFAC5 -  #FFFAC2
   */
+  background-image: linear-gradient(to right,#FFFAC5 ,#FFFAC2);
 }
 
 .App-logo {

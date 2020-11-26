@@ -1,7 +1,5 @@
 .container{
     display:flex;
-    background-image:linear-gradient(to bottom,#ffffff,#FFFAC2);
-    background-size:cover;
 }
 
 .award-image-section{
@@ -28,7 +26,4 @@
 }
 ul li{
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-@media(max-width:1000px){
-
 }

@@ -1,7 +1,6 @@
 .container{
     display:flex;
-    background-image:linear-gradient(to bottom,#ffffff,#FFFAC2);
-    background-size:cover;
+    background-color:linear-gradient(to right, #FFFAC5, #FFFAC2)
 }
 
 .award-image-section{

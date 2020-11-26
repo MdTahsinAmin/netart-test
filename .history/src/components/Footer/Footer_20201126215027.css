@@ -1,0 +1,31 @@
+.footer{
+    background-color: #EC3237;
+    display: flex;
+    padding-top:50px;
+    padding-bottom:50px;
+    color: #fff;
+    background-image:linear-gradient(to right,#FFFAC5,#FFFAC2);
+}
+.footer-section{
+    list-style-type: none;
+}
+.footer-section{
+   width:100%;
+   display:-webkit-flex;
+   display:-moz-flex;
+   display:-ms-flex;
+   display:-o-flex;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:center;
+}
+
+.footer-section.li{
+      padding:0 30px;
+      flex-basis: 33%;
+      text-align: center;
+}
+.media-icon {
+    font-size:25px;
+    margin-left: 50px;
+}

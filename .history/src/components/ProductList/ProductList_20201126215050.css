@@ -1,8 +1,6 @@
 .company-product{
     font-family: 'Courier New', Courier, monospace;
     background-image:linear-gradient(to right,#FFFAC5,#FFFAC2);
-    padding-top:10px;
-    padding-bottom:10px;
 }
 .company-services{
     margin-left:45px;
