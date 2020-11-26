@@ -68,4 +68,13 @@
         justify-content: center;
         align-items: center;
     }
+
+}
+@media(max-width:1024px) {
+    .ul-under-div{
+        position: relative;
+        top:-5px;
+        display:flex;
+        flex-wrap: wrap;
+    }
 }

@@ -68,4 +68,12 @@
         justify-content: center;
         align-items: center;
     }
+
+}
+@media(max-width:1024px) {
+    .ul-under-div{
+        display:flex;
+        flex-wrap: wrap;
+        margin-top:2px;
+    }
 }
