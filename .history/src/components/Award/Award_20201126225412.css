@@ -9,9 +9,9 @@
      margin-right: 100px;
 }
 .award-image{
-     /*margin-top:230px;*/
-     padding-top:215px;
-     width:100%;
+     margin-top:230px;
+     margin-left:px;
+     width:110%;
 }
 .company-logo{
      width:45%;
@@ -30,15 +30,16 @@ ul li{
      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 @media(max-width:800px){
-     .company-logo{
-          width:65%;
-     }
-     .who-received-award{
-         text-align: justify;
+     .award-image{
+         width: 220%;
+         margin-top:255px;
          margin-right: 10px;
      }
-     .company-description-section li{
-          text-align: justify;
+}
+@media(width:320px){
+     .award-image{
+          width: 320%;
+          margin-top:450px;
           margin-right: 10px;
-     }
+      }
 }
