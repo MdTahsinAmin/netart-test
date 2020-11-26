@@ -71,11 +71,11 @@ ul li{
  @media(max-width: 1024px){
        
      .award-image-section{
-          width:80%;
-          margin-top:200px;
+          width:55%;
+          margin-top:230px;
      }
      .awardReceiving-img{
-          width:95%;
+          width:85%;
           align-items:center;
      }
  }

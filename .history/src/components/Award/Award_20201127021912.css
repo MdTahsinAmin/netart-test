@@ -67,15 +67,3 @@ ul li{
           text-align: justify;
      }
  }
-
- @media(max-width: 1024px){
-       
-     .award-image-section{
-          width:80%;
-          margin-top:200px;
-     }
-     .awardReceiving-img{
-          width:95%;
-          align-items:center;
-     }
- }
