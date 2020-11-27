@@ -6,6 +6,7 @@
 }
 .award-image-section{
      width:50%;
+     margin-top:230px;
 }
 .award-image{
      width:100%;
@@ -56,9 +57,10 @@ ul li{
          padding: 30px;
      }
      .company-logo{
+           margin-top: 0;
            justify-content: center;
            align-items: center;
-           width: 75%;
+           width: 55%;
      }
      .company-description-section li{
           text-align: justify;
@@ -72,6 +74,7 @@ ul li{
        
      .award-image-section{
           width:80%;
+          margin-top:200px;
      }
      .awardReceiving-img{
           width:95%;
